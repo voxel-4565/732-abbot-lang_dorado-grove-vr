@@ -58,6 +58,10 @@
 		{
 			"Name": "PCGGeometryScriptInterop",
 			"Enabled": true
+		},
+		{
+			"Name": "MoviePipelineMaskRenderPass",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
